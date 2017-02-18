@@ -7,4 +7,4 @@ Etiqueta Anotada: Se guardan en la base de datos de Git como objetos enteros. Ti
 ```
 git tag -l "v1.*": 
 ```
-Lista las etiquetas que coincidan con el patrón especificado
+Lista las etiquetas que coincidan con el patrón especificadovim
