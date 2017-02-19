@@ -12,4 +12,4 @@ Con este comando vinculamos nuestro repositorio local con Github.
 8. Esperar que el administrador del repositorio original acepte mis cambios.
 
 ## Varios repositorios remotos
-Podemos configurar un mismo proyecto para sincronizar cambios con varios repositorios remotos.
+Podemos configurar un mismo proyecto para sincronizar cambios con varios repositorios remotos
