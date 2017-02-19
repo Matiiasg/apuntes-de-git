@@ -1,4 +1,4 @@
-##Zonas de GIT
+#Zonas de GIT
 1.- Directorio de Trabajo
 2.- Área de preparación
 3.- Directorio GIT
