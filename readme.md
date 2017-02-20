@@ -16,6 +16,6 @@ git config --global core.editor nano
 git config --list
 ```
 
-MASTER
+MASTER1
 
 
