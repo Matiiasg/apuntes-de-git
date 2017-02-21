@@ -28,5 +28,10 @@ Cuando nos pide la rita escribimos `/c/llaves-ssh/github_rsa`
 
 4. Agregamos la llave ssh generada a ssg-agent ejecutando el comando `ssh-add /c/llaves-ssh/github_rsa`
 
-5. Desde ahora podemos hacer pull y push sin que Github nos esté pidiendo usuario y clave de acceso.
+5. Usar el comando `cat /c/llaves-ssh/github_rsa.pub`
+Con este comando vemos el contenido del archivo, copiamos todo el texto que nos muestra.
+
+6. Ir a las configuraciones de nuestro perfil de Github y agragar un nueva llame SSH con el contenido que hemos copiado de `github_rsa.pub`
+
+Desde ahora podemos hacer pull y push sin que Github nos esté pidiendo usuario y clave de acceso.
 
